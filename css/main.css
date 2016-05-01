@@ -1,0 +1,130 @@
+/* Inserta tu código aqui */
+.icon{
+	margin-top: 15px;
+}
+.mi-historia{
+	background-color: #3C8996;
+	width: 100px;
+	height: 40px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+.sub-lista{
+	margin-left: -40px;
+}
+.sub-lista li{
+	margin-top: 10px;
+	display: inline-block;
+	padding: 1px;
+	list-style: none;
+}
+.let-publicado{
+	font-size: 10px;
+	color: gray;
+}
+.let-chic{
+	font-size: 12px;
+}
+.etiquetas{
+	margin-left: -40px;
+}
+.etiquetas a{
+	text-decoration: none;
+	color: #A5A5A5;
+}
+.etiquetas li{
+	display: inline-block;
+	padding: 10px;
+	list-style: none;
+}
+.etiquetas span{
+	margin-right: -10px;
+}
+.titulo{
+	font-size: 30px;
+	font-family: cursive;
+}
+h4{
+	font-family: cursive;
+	font-size: 24px;
+	color: #3C8996;
+}
+.line{
+	width: 100%;
+	height: 1px;
+	background-color: #A5A5A5;
+}
+.sub-lista-2{
+	margin-left: -40px;
+}
+.sub-lista-2 li{
+	margin-top: 10px;
+	display: inline-block;
+	padding: 1px;
+	list-style: none;
+}
+.ella img{
+	padding: 10px;
+}
+.aline{
+	text-align: center;
+	padding: 0 50px 0 50px;
+}
+iframe{
+	padding-top: 20px;
+}
+.backg-video{
+	background-color: #F3F3F3;
+	border: 2px solid #D7D7D7;
+}
+.titulo-iris{
+	padding-left: 10px;
+}
+.letra-iris{
+	padding: 0 10px 0px 10px;
+}
+.box-1{
+	width: 50px;
+	height: 50px;
+	background-color: #8ED775;
+}
+.box-1 p{
+	padding: 5px;
+	color: white;
+	text-align: center;
+}
+.mi-historia-2{
+	background-color: #3C8996;
+	width: 100px;
+	height: 40px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	margin-top: 20px;
+}
+.list-secc{
+	list-style: none;
+}
+.space{
+	padding-right: 5px;
+	margin-left: -30px;
+}
+a{
+	color: #9A79D7;
+}
+.parte-1{
+	background-color: #F3F3F3;
+	border: 2px dotted #D7D7D7;
+	margin-bottom: 5px;
+	padding: 5px;
+	text-align: center;
+}
+.verde{
+	color: #8ED775;
+}
+.linea{
+	width: 100%;
+	height: 5px;
+	background-color: #303030;
+}
